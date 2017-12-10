@@ -9,4 +9,8 @@
 
 `Telerobotics` - Robot that is operated remotely.
 
+World's Top 3 Humanoid Robots
+* ASIMO
+* HPR-4
+* NAO
 
