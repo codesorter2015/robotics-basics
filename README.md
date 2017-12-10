@@ -20,7 +20,12 @@
 * 9V Battery Connector
 * Switch
 * Small Pieces of Ice-cream stick
+* Servo Motors
+* Potentiometer
+* Industrial Robots
+* Industrial Manipulators
 
 # Otehr Channel
 * MR KEY Creativity
 * Creative Tube
+
