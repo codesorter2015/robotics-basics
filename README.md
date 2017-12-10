@@ -9,8 +9,20 @@
 
 `Telerobotics` - Robot that is operated remotely.
 
-World's Top 3 Humanoid Robots
-* ASIMO
+# World's Top 3 Humanoid Robots
+* ASIMO (Made by HONDA)
 * HPR-4
 * NAO
 
+
+
+# Useful Parts
+* DC Motor
+* 9V Battery
+* 9V Battery Connector
+* Switch
+* Small Pieces of Ice-cream stick
+
+# Otehr Channel
+* MR KEY Creativity
+* Creative Tube
