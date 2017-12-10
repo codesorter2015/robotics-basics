@@ -14,8 +14,6 @@
 * HPR-4
 * NAO
 
-
-
 # Useful Parts
 * DC Motor
 * 9V Battery
