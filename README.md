@@ -24,6 +24,12 @@
 * Potentiometer
 * Industrial Robots
 * Industrial Manipulators
+* IR Sensor - (https://www.amazon.in/s/ref=bl_dp_s_web_0?ie=UTF8&search-alias=aps&field-keywords=Fozela)
+* IR transmitters
+* LED Eyes
+* Indicator Lights to colorful modes
+* Poseable arms
+* Tray Slot (For inserting tray)
 
 # Otehr Channel
 * MR KEY Creativity
